@@ -1,4 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("%d", 5+5);
+    printf("%d\n", 5+5);
+    printf("SALOM DUNYO");
 }
